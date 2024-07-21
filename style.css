@@ -1,0 +1,13 @@
+p{font-size: 100px;
+border-style: groove;
+border-color: yellow;
+border-radius: 50%;
+color: red;
+border-width: 30px;
+width: 100px;
+height: 100px;
+text-align:end;
+padding: 50px;
+box-shadow: 50px 50px 100px 100px orange;
+text-shadow: 30px 30px 4px black;
+font-style: italic;}
